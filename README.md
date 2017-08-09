@@ -5,5 +5,5 @@ The margin noise removal dataset consists of 75 scanned images of pages from `Be
 
 
 
-The Zip folder contains the full dataset. 
+
 For a single image the groundtruth is present in a folder of same name as of the image.
