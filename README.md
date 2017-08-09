@@ -7,3 +7,8 @@ The margin noise removal dataset consists of 75 scanned images of pages from `Be
 
 
 For a single image the groundtruth is present in a folder of same name as of the image.
+The dataset can also be downloaded from http://www.facweb.iitkgp.ernet.in/~jay/MarNR/MarNR.html
+
+citation
+
+
