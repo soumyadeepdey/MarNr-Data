@@ -1,0 +1,3 @@
+LabelName	LabelNumber	NumberOfPB	NumberOfPixel
+Text	0	83	325015
+MarginNoise	9	7	5874
