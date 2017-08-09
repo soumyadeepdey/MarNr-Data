@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Anveshwak vertion="1.1" date="04-12-2016" >
+	<Document name ="/home/soumyadeep/work/PapersAndWriteups/Accepted/MyPapers/DAR2012/margin_noise_data/maga1.jpg" height ="2037" width ="1900">
+		<Annotation name="/home/soumyadeep/work/PapersAndWriteups/Accepted/MyPapers/DAR2012/margin_noise_data/maga1/LabelAllInOne.png" labels="3"> 
+			<Labels name="Text" index="0"> </Labels>
+			<Labels name="Graphics" index="2"> </Labels>
+			<Labels name="MarginNoise" index="9"> </Labels>
+		</Annotation>
+	</Document>
+</Anveshwak>

@@ -1,0 +1,2 @@
+LabelName	LabelNumber	NumberOfPB	NumberOfPixel
+Text	0	74	258818
